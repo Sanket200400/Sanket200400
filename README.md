@@ -1,4 +1,6 @@
-(https://github.com/user-attachments/files/24157601/ReadMe.md)#
+Hi 👋, I'm Sanket Musai
+
+
 I'm a final-year AI & ML Engineering student at VSM Institute of Technology with a CGPA of 8.<br>I've strong foundation in programming, data analyst. I have hands-on experience through academic projects and lab work, and I am passionate about AI, robotics and software development. I am a quick learner, team-oriented, and eager to apply my skills in real-world industry settings through internships or collaborative projects.<br><br>I am highly adaptable professional with the ability to quickly master new technologies and contribute effectively to assigned projects and tasks. I'm excited to leverage my academic background and technical expertise to contribute to impactful, real-world technology challenges.
 
 
